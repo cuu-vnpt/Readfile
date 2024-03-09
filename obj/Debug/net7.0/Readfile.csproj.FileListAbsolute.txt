@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Readfile/bin/Debug/net7.0/Readfile
+/Users/macos/Desktop/Operator/Readfile/bin/Debug/net7.0/Readfile.deps.json
+/Users/macos/Desktop/Operator/Readfile/bin/Debug/net7.0/Readfile.runtimeconfig.json
+/Users/macos/Desktop/Operator/Readfile/bin/Debug/net7.0/Readfile.dll
+/Users/macos/Desktop/Operator/Readfile/bin/Debug/net7.0/Readfile.pdb
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.dll
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/refint/Readfile.dll
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.pdb
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/Readfile.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Readfile/obj/Debug/net7.0/ref/Readfile.dll
